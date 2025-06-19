@@ -1,0 +1,4 @@
+This folder should contain the roberta-large files.
+You can download the model from :
+    https://dl.fbaipublicfiles.com/fairseq/models/roberta.large.tar.gz
+Github does not accept files of this size.
