@@ -8,7 +8,6 @@
 ---
 
 ## Proje Hakkında
-Bu proje, diyalog verileri üzerinde duygu analizini
 Bu proje, diyalog verileri üzerinde duygu analizi görevini gerçekleştiren yapay sinir ağlarının performanslarının değerlendirilerek; metin, ses ve görüntü modaliteleri için optimal yöntemlerin belirlenmesini hedefler. 
 
 **### Kullanılan Veri Setleri**
